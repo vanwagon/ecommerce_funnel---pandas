@@ -1,5 +1,3 @@
-# Write your code here :-)
-import codecademylib3
 import pandas as pd
 
 #funnel to describe process:
